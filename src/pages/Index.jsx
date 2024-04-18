@@ -7,7 +7,7 @@ const Index = () => {
       <Box textAlign="center" py={10}>
         <Image src="https://images.unsplash.com/photo-1593672715438-d88a70629abe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHxtb25leXxlbnwwfHx8fDE3MTM0NTQ1NjN8MA&ixlib=rb-4.0.3&q=80&w=1080" borderRadius="lg" alt="Money Image" mb={4} />
         <Heading as="h1" size="xl" mb={6}>
-          Earn Money from Your Phone
+          Make Money
         </Heading>
         <Text fontSize="lg">Discover simple and effective ways to make money using just your mobile phone.</Text>
       </Box>
